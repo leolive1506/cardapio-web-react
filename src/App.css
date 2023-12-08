@@ -17,9 +17,10 @@
   color: white;
   font-weight: bold;
   position: fixed;
-  bottom: 16px;
-  right: 24px;
+  bottom: 1rem;
+  right: 2rem;
   transition: all 0.1s linear 0.1s;
+  border-radius: 8px;
 }
 
 .container button:hover {
